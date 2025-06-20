@@ -34,7 +34,7 @@ Which car is best suited for adventure driving?
 Which car model is best for child safety features?
 Which car body type is most preferred by customers?
 
-- Dashboard Interaction <a href=https://drive.google.com/file/d/1ja0nR7i-QdkVViHBSrVPAidPiL1Tvcmh/view?usp=sharing>View Dashboard</a>
+[Dashboard Interaction](https://drive.google.com/file/d/1ja0nR7i-QdkVViHBSrVPAidPiL1Tvcmh/view?usp=sharing)
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
