@@ -16,12 +16,9 @@ An interactive and data-driven dashboard that helps consumers, analysts, and man
 - Excel/CSV for data input
 - DAX for custom KPIs and measures
 
-## Data Dictionary used
-- <a href=https://docs.google.com/spreadsheets/d/1aqTZAWOTNNwb66Q_TfehuONKjtW8Dawe/edit?usp=sharing&ouid=105393677516470121081&rtpof=true&sd=true>Dataset</a>
-
-
-## Dataset used
-<a href=https://docs.google.com/spreadsheets/d/1FHAYjUerQUBULiTVIxSC4LWVbY6yUR9K/edit?usp=sharing&ouid=105393677516470121081&rtpof=true&sd=true> 
+## Dataset and Dictionary used
+1. [Car Data.xlsx](https://docs.google.com/spreadsheets/d/1aqTZAWOTNNwb66Q_TfehuONKjtW8Dawe/edit?usp=sharing&ouid=105393677516470121081&rtpof=true&sd=true)
+2. [Car Data Dictionary.xlsx](https://docs.google.com/spreadsheets/d/1FHAYjUerQUBULiTVIxSC4LWVbY6yUR9K/edit?usp=sharing&ouid=105393677516470121081&rtpof=true&sd=true)
 
 ## Questions (KPIs)
 Which car model offers the highest number of preferred features?
